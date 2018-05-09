@@ -29,6 +29,7 @@ class BulletScreen(object):
     def read(self):
 
         f = open("data/1993410.txt", "r")
+        #max time
         timelength = 5640
         #f = open("data/2152134.txt", "r")
         # self.timelength = 12306
